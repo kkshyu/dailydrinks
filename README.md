@@ -7,3 +7,6 @@ there are some special things in it:
 
 I also found out a bug in styled-component and the native input element.
 If you are interested in it, please find `NOTICE` in code.
+
+Reference:
+* left paddinig zeros in number input: https://github.com/facebook/react/issues/9402
